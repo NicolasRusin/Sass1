@@ -1,0 +1,47 @@
+body {
+  background-image: url(../Imagenes/fondo1.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main div {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  padding: 1rem;
+  border: blue;
+}
+main div img {
+  opacity: 0.4;
+  border: 2px double white;
+}
+main div img:hover {
+  opacity: 1;
+  border: red;
+}
+
+header {
+  font-family: Impact;
+}
+header a {
+  text-align: center;
+  color: rgb(3, 3, 3);
+}
+header a:hover {
+  color: white;
+}
+
+footer {
+  text-align: center;
+}
+footer div {
+  font-family: Impact;
+}
+footer div img {
+  justify-content: center;
+  opacity: 0.4;
+  border: 2px double white;
+}
+footer div img:hover {
+  border: blue;
+}/*# sourceMappingURL=estilo.css.map */

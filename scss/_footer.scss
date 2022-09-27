@@ -1,0 +1,14 @@
+footer{
+    text-align: center;
+    div{
+        font-family: $font-family;
+        img{
+            justify-content: center;
+            opacity: .4;
+            border: 2px double white;
+         &:hover{
+            border: $maincolor;
+         }
+        }
+    }
+}

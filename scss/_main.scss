@@ -1,0 +1,17 @@
+main{
+    div{
+        display: flex;
+        justify-content: center;
+        margin: 15px;
+        padding: 1rem;
+        border: blue;
+    img{
+        opacity: .4;
+        border: 2px double white;
+    &:hover{
+        opacity: 1;
+        border: red;
+      }
+     }  
+  }
+}

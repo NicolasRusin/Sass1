@@ -1,0 +1,10 @@
+header{
+    font-family: $font-family;
+    a{
+        text-align: center;
+        color: $cool-red;
+        &:hover{
+            color: white;
+        }
+    }
+}
