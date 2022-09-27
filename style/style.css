@@ -2,11 +2,7 @@
     margin: 0;
     padding: 0;
 }
-body{
-    background-image: url(../Imagenes/fondo1.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 h1{
     font-family: Impact, Haettenschweiler,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
